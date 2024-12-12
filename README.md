@@ -1,4 +1,4 @@
-# 6513-LLM-Tokenizer-Pipeline
+# LLM Tokenizer Pipeline
 This is the repo housing the LLM Tokenizing pipeline, along with analytics to help inform the user the nature of the data they are tokenizing. 
 
 ## Instructions to Run
